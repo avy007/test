@@ -6,6 +6,9 @@ public class testing {
 		// uc 1 print
 		System.out.println("welcome");
 
+		
+		// uc2 
+		System.out.println("sirname");
 	}
 
 }
